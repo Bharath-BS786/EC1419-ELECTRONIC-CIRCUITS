@@ -7,7 +7,10 @@
 
 
 ## Tabulations 
+![Uploading WhatsApp Image 2025-11-22 at 18.29.25_01935394.jpg…]()
 
 ## Semilog Graph
+![Uploading WhatsApp Image 2025-11-22 at 18.29.25_2223bd80.jpg…]()
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![Uploading WhatsApp Image 2025-11-22 at 18.29.26_04e48ebb.jpg…]()
+
